@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the original SDF concept when referencing this work."
+title: "Smart Document Format (SDF)"
+authors:
+  - family-names: "Kumari"
+    given-names: "Tannu"
+version: 0.1.0
+date-released: 2026-09-24
